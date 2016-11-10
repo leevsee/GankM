@@ -37,9 +37,9 @@
 * 将会新增图片放大、分享和保存功能； 
 
 <br/>
-<img src="/blog/shouye.jpg" alt="screenshot" title="screenshot"  width="270" height="486"/>
-<img src="/blog/cebianlan.jpg" alt="screenshot" title="screenshot"  />
-<img src="/blog/neirong.jpg" alt="screenshot" title="screenshot"  />
+<img src="/blog/shouye.jpg"   width="270" height="486"/>
+<img src="/blog/cebianlan.jpg"   width="270" height="486"/>
+<img src="/blog/neirong.jpg"   width="270" height="486"/>
 <br/><br/>
 
 =======
